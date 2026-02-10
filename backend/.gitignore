@@ -1,0 +1,13 @@
+# --- Extra safety ---
+.next/
+node_modules/
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.production
+
+# OS / Editor
+.DS_Store
+Thumbs.db
